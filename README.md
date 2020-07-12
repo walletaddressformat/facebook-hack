@@ -1,4 +1,7 @@
 # facebook-hack
+# Installation
+# Command
+
 $pkg update
 
 $pkg upgrade
