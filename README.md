@@ -30,4 +30,4 @@ $python2 Eror-Toxic.py
 
 Inbox me For Tools:User Name
 
-Inbox me For Tools:User Name
+Inbox me For Tools:Password
