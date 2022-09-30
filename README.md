@@ -26,8 +26,8 @@ $cd facebook-hack
 
 $ls
 
-$python2 Eror-Toxic.py
+$python2 haxor.py
 
-Inbox me For Tools:User Name
+Inbox me For Tools:htrtech
 
-Inbox me For Tools:Password
+Inbox me For Tools:haxor
